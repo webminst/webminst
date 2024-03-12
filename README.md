@@ -1,9 +1,14 @@
-### Hi there 👋
+# About me
+### Giovanni Moreira Guimarães
+Bel. Ciência da Computação
 
-<!--
-**webminst/webminst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bel. Teologia
 
-Here are some ideas to get you started:
+Aluno do programa de mestrado da Ufersa/UERN
+
+Bolsista/Pesquisador da SEDEC - RN (Secretaria de Desenvolvimento Econômico do Estado do Rio Grande do Norte)
+
+Depois escrevo mais
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
