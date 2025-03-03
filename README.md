@@ -4,10 +4,6 @@ Bel. Ciência da Computação
 
 Bel. Teologia
 
-Aluno do programa de mestrado da Ufersa/UERN
-
-Bolsista/Pesquisador da SEDEC - RN (Secretaria de Desenvolvimento Econômico do Estado do Rio Grande do Norte)
-
 Depois escrevo mais
 
 - 🔭 I’m currently working on ...
